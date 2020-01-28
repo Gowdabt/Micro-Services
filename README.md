@@ -1,2 +1,2 @@
 # Micro-Services
-An Spring boot application to illustrate microservice behaviour
+An Spring boot microservice example application to illustrate microservice behaviour
